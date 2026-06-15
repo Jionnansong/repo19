@@ -4,6 +4,7 @@ build
 .git
 .DS_Store
 *.sqlite
+environment/ssh_plugin/
 environment/repo/data/*
 environment/repo/frontend/node_modules
 environment/repo/backend/node_modules
